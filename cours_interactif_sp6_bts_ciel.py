@@ -33,7 +33,7 @@ MISSIONS = [
                 "name": "Niveau 2 – Imaginer",
                 "questions": [
                     "Imagine la scène : le directeur te demande d'assurer une connexion fiable entre le hangar et l'entreprise. Qu'est-ce que tu lui promets concrètement ?",
-                    "Décris ton RLI comme un "système nerveux" du hangar : quels sont les "nerfs" et quel est le "cerveau" ?",
+                    "Décris ton RLI comme un 'système nerveux' du hangar : quels sont les 'nerfs' et quel est le 'cerveau' ?",
                 ],
             },
             {
@@ -62,7 +62,7 @@ MISSIONS = [
                 "name": "Niveau 2 – Imaginer",
                 "questions": [
                     "Raconte une mini-histoire : l'automate est un coach qui surveille la fréquence et le courant du moteur via Modbus.",
-                    "Imagine une trame Modbus comme une phrase : quels sont les "mots" (champs) et ce qu'ils disent ?",
+                    "Imagine une trame Modbus comme une phrase : quels sont les 'mots' (champs) et ce qu'ils disent ?",
                 ],
             },
             {
